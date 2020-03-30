@@ -10,5 +10,7 @@ package modelo;
  * @author USUARIO
  */
 public class PORTI {
-    
+    public static void main(String[] args) {
+        System.out.println(" - -   H O L A   C O R A Z Ó N   - - ");
+    }
 }
